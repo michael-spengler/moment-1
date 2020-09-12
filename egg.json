@@ -1,0 +1,13 @@
+{
+  "name": "moment",
+  "description": "Deno moment - compare: https://momentjs.com/docs/",
+  "stable": true,
+  "repository": "https://github.com/michael-spengler/moment",
+  "files": [
+    "mod.ts",
+    "moment.js",
+    "moment.ts",
+    "README.md",
+    "usage-example.ts"
+  ]
+}
